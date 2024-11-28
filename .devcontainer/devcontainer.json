@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "dotnet build GeneticsDemo.sln",
+    "launch": "cd GeneticAlgorithm.Console && dotnet run"
+  }
+}
